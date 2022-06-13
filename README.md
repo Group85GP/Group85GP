@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning indoor sub-meter positioning issues with commercial 5G systems.
 - 💞️ I’m looking to collaborate on some research institutions on 5G localization applications.
 - 📫 How to reach me via 5GICP@pmlabs.com.cn
+- We are applying for registration of the computer software copyright, and the code will be released later.
 
 <!---
 Group85GP/Group85GP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
